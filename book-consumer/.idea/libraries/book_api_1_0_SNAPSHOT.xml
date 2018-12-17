@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="book-api-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/enquiryprice-web/src/main/lib/book-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

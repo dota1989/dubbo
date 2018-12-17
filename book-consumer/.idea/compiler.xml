@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-service" />
+        <module name="consumer-web" />
+        <module name="enquiryprice-service" />
+        <module name="enquiryprice-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="book-consumer" target="1.8" />
+      <module name="consumer-service" target="1.8" />
+      <module name="consumer-web" target="1.7" />
+      <module name="enquiryprice-service" target="1.8" />
+      <module name="enquiryprice-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
